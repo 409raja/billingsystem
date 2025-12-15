@@ -1,6 +1,12 @@
 # Billing-System  # billingsystem
 # 🧾 Thermal POS Billing System
 
+## 📌 About the Project
+
+This project is a lightweight, browser-based POS (Point of Sale) and Billing system designed for small shops and retail stores.
+
+It works completely offline using browser localStorage and supports barcode-based billing, stock management, UPI QR payments, WhatsApp invoice sharing, customer history (CRM) and thermal printer style receipts.
+
 A browser-based Point of Sale (POS) & Billing application built using  
 **HTML, CSS & JavaScript** — no backend required.
 
